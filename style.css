@@ -1,0 +1,10 @@
+.nav-item a:hover{
+    background-color: cyan;
+    color: blueviolet;
+}
+
+body {
+    background-image: url('https://watermark.lovepik.com/photo/50064/0806.jpg_wh1200.jpg');
+    background-size: cover;
+    height: 20vh;
+}
